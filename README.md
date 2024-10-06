@@ -1,6 +1,6 @@
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+<img src="image.png" alt="alt text" width="300" height="200" style="display: inline-block; margin-right: 10px;" />
+<img src="image-1.png" alt="alt text" width="300" height="200" style="display: inline-block; margin-right: 10px;" />
+<img src="image-2.png" alt="alt text" width="300" height="200" style="display: inline-block;" />
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
