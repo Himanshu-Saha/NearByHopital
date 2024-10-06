@@ -4,7 +4,7 @@ import {View, Text, FlatList, ActivityIndicator, PermissionsAndroid} from 'react
 
 const GOOGLE_PLACES_API_URL =
   'https://maps.googleapis.com/maps/api/place/nearbysearch/json';
-const GOOGLE_API_KEY = 'AIzaSyDCkbC2snS4HTC9WRU_lqYhv9cBWhBF4B4'; // Replace with your actual API key
+const GOOGLE_API_KEY = ''; // Replace with your actual API key
 
 export default function Hospitals() {
   const [hospitals, setHospitals] = useState([]);
